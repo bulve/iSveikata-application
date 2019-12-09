@@ -1,0 +1,13 @@
+lt.vtvpmc.ems.isveikata
+lt.vtvpmc.ems.isveikata.api
+lt.vtvpmc.ems.isveikata.appointment
+lt.vtvpmc.ems.isveikata.employees
+lt.vtvpmc.ems.isveikata.icd
+lt.vtvpmc.ems.isveikata.mappers
+lt.vtvpmc.ems.isveikata.medical_record
+lt.vtvpmc.ems.isveikata.patient
+lt.vtvpmc.ems.isveikata.prescription
+lt.vtvpmc.ems.isveikata.prescriptionUsage
+lt.vtvpmc.ems.isveikata.security
+lt.vtvpmc.ems.isveikata.specialization
+lt.vtvpmc.ems.isveikata.statistics

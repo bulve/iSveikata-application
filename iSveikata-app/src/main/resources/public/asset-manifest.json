@@ -1,0 +1,21 @@
+{
+  "main.css": "static/css/main.e4322e54.css",
+  "main.css.map": "static/css/main.e4322e54.css.map",
+  "main.js": "static/js/main.18a8c623.js",
+  "main.js.map": "static/js/main.18a8c623.js.map",
+  "static/media/bg_right.png": "static/media/bg_right.4da5d3ed.png",
+  "static/media/glyphicons-halflings-regular.eot": "static/media/glyphicons-halflings-regular.f4769f9b.eot",
+  "static/media/glyphicons-halflings-regular.svg": "static/media/glyphicons-halflings-regular.89889688.svg",
+  "static/media/glyphicons-halflings-regular.ttf": "static/media/glyphicons-halflings-regular.e18bbf61.ttf",
+  "static/media/glyphicons-halflings-regular.woff": "static/media/glyphicons-halflings-regular.fa277232.woff",
+  "static/media/glyphicons-halflings-regular.woff2": "static/media/glyphicons-halflings-regular.448c34a5.woff2",
+  "static/media/icon.png": "static/media/icon.fae848d6.png",
+  "static/media/logo.png": "static/media/logo.ac695ebb.png",
+  "static/media/password_change.png": "static/media/password_change.0aa93c96.png",
+  "static/media/patient_records.png": "static/media/patient_records.ed780e45.png",
+  "static/media/patients.png": "static/media/patients.122bfe7b.png",
+  "static/media/patients_login.png": "static/media/patients_login.97bbb2e4.png",
+  "static/media/statistics.png": "static/media/statistics.4ba082e8.png",
+  "static/media/stats.png": "static/media/stats.a8e808a2.png",
+  "static/media/system_users.png": "static/media/system_users.2ca95ccd.png"
+}

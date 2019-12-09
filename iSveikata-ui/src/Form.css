@@ -1,0 +1,101 @@
+.formErrors {
+	color: #cc0000;
+	font-weight: bold;
+	text-align: left;
+	height: 100px;
+}
+
+.form-control:focus, #is-valid:focus, #is-invalid:focus, .is-valid:focus, .is-invalid:focus {
+	border-color: #0066cc;
+	box-shadow: none !important;
+    outline: none !important;
+}
+
+#is-valid, .is-valid {
+	border-color: #00b300;
+	box-shadow: none !important;
+    outline: none !important;
+}
+
+#is-invalid, .is-invalid {
+	border-color: #cc0000;
+	box-shadow: none !important;
+    outline: none !important;
+}
+
+textarea {
+	resize: vertical;
+	overflow: auto;
+	min-height: 100px;
+}
+
+label {
+	color: #000000 !important;
+}
+
+.form-check-label {
+	font-weight: normal;
+	padding-left: 10px;
+}
+
+h2 {
+	padding-bottom: 20px;
+}
+
+h3 {
+	text-align: center;
+	font-weight: bold;
+}
+
+.signin-form {
+	padding: 30px;
+	border-style: solid;
+    border-width: 1px;
+	border-radius: 5px;
+	border-color: #b0b0b1;
+	text-align: center;
+}
+
+.help-block {
+	text-align: left;
+}
+
+.form-control {
+	border-width: 2px;
+}
+
+select + span {
+	padding-right: 30px;
+}
+
+.input-append input:hover {
+	box-shadow: 0 0 2px darkblue;
+}
+
+.input-append i {
+	border: 0;
+	background: none;
+	padding:  5px;
+	margin-top: 2px;
+	position: relative;
+	opacity: 0.5;
+	left: -28px;
+	margin-bottom: 0;
+}
+
+.input-append i:hover {
+	background: none;
+	transform: scale(1.2);
+	opacity: 1;
+	transition: transform .2s;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+    /* display: none; <- Crashes Chrome on hover */
+    -webkit-appearance: none;
+    margin: 0; /* <-- Apparently some margin are still there even though it's hidden */
+}
+input[type='number'] {
+    -moz-appearance:textfield;
+}

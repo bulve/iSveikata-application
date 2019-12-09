@@ -1,0 +1,151 @@
+header {
+    background-color: rgb(255, 255, 255);
+    /* background: url(./Component/images/bg_left.png) left bottom no-repeat, url(./Component/images/bg_right.png) right bottom no-repeat; */
+    background: url(./Component/images/bg_right.png) right bottom no-repeat;
+    height: 350px;
+    padding-top: 50px;
+    text-align: center;
+}
+
+#custom2 {
+    border-bottom: solid 20px #118e38;
+    height: 280px;
+    overflow-y: auto;
+}
+
+#custom1, #custom3 {
+    border-bottom: solid 20px #293180;
+    height: 280px;
+    overflow-y: auto;
+}
+
+.infoText {
+    text-align: justify;
+    text-justify: distribute;
+    font-family: "Didact Gothic";
+    font-style: normal;
+	font-variant: normal;
+    font-size: 16px;
+}
+
+.left {
+    text-align: left;
+}
+
+h4 {
+    font-family: "Didact Gothic";
+    font-weight: bold;
+    font-style: normal;
+	font-variant: normal;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    width:100%;
+    background-color: #222222;
+    color: #9d9d9d;
+    height: 50px;
+    font-size: 14px;
+    vertical-align: middle;
+}
+
+#footerLink {
+    float: left;
+    padding-left: 20px;
+    margin: 5px 0;
+}
+
+#footerText {
+    float: right;
+    padding-right: 20px;
+    margin: 18px 0;
+}
+
+#lrlogo {
+    height: 40px;
+    margin-right: 10px;
+}
+
+#imgLink:hover {
+    background-color:  #222222;
+}
+
+#imgLink:active {
+    background-color:  #222222;
+}
+
+.inline {
+    display: inline-block;
+  }
+
+frontPagePanel a:link {
+    color: #293180;
+    background-color: transparent;
+    text-decoration: none;   
+}
+
+frontPagePanel a:visited {
+    color: #7a7c8c;
+    background-color: transparent;
+    text-decoration: none;
+}
+
+frontPagePanel a:hover {
+    color: #ffffff;
+    background-color: #293180;
+    text-decoration: none;
+}
+
+a:active {
+    color: #ffffff;
+    background-color: #118e38;
+    text-decoration: none;
+}
+
+#logo {
+    /* width: 700px; */
+}
+
+#icon {
+    height: 40px;
+    padding-top: 5px;
+}
+
+#homeHome{
+    padding: 0;
+}
+
+#patientRecords, #stats, #passwordChange {
+   width: 100px;
+   padding-bottom: 30px;
+   padding-top: 30px;
+}
+
+.statBtn:hover {
+    background-color: #ddd;
+}
+.statBtn:active {
+    background-color: #ccc;
+    box-shadow: inset 0 0 30px 5px #aaa;
+}
+.statBtn {
+    border: 1px solid #aaa;
+    border-radius: 4px;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+}
+::-webkit-scrollbar {
+    width: 10px;
+}
+ 
+::-webkit-scrollbar-track {
+    background-color: white;
+}
+
+::-webkit-scrollbar-thumb {
+    background-color: white;
+    border: 1px solid #dcd7d4;
+}
