@@ -1,8 +1,7 @@
-# iSveikata
-#2018
+# iSveikata application 2018
 
-#iSveikata-app 
+# iSveikata-app 
 Java + Spring + Hibernate + H2
 
-#iSveikata-ui
+# iSveikata-ui
 Javascript + Reactjs + Redux
